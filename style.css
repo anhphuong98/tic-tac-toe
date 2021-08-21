@@ -119,6 +119,12 @@ body {
     animation: myFlicker 700ms infinite;
 }
 
-
-
+@media screen and (max-width: 600px) {
+	.board {
+		height : 310px;
+		width: 310px;
+		font-size: 0.8em;	
+	}
+	
+}
 
