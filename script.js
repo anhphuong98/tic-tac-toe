@@ -25,10 +25,10 @@ const pick = [num1, num2, num3, num4, num5, num6, num7, num8, num9]
 const restartButton = document.getElementById("restart")
 
 // define variable
-const humanIcon = `<img class="xo-icon-lg" src="human.png" alt="icon-human">`
-const computerIcon = `<img class="xo-icon-lg" src="computer.png" alt="icon-computer">`
-const oIcon =   `<img class="xo-icon-lg" src="icon-o.png" alt="icon-o">`
-const xIcon =   `<img class="xo-icon-lg" src="icon-x.png" alt="icon-x">`
+const humanIcon = `<img class="xo-icon-lg" src="assets/human.png" alt="icon-human">`
+const computerIcon = `<img class="xo-icon-lg" src="assets/computer.png" alt="icon-computer">`
+const oIcon =   `<img class="xo-icon-lg" src="assets/icon-o.png" alt="icon-o">`
+const xIcon =   `<img class="xo-icon-lg" src="assets/icon-x.png" alt="icon-x">`
 
 const winArray = [[1, 2, 3], [1, 4, 7], [1, 5, 9], [2, 5, 8], [3, 5, 7], [3, 6, 9], [4, 5, 6], [7, 8, 9]]
 
